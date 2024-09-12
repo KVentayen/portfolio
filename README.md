@@ -1,4 +1,4 @@
-[Home](portfolio)
+[Home](#)
 [Resume](resume)
 
 # Profile
