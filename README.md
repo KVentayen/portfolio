@@ -24,5 +24,6 @@ This was a comprehensive experience to enable the usage of developing autonomous
 
 # Contact
 For further inquries use the following below:
-- Email: cammeraprogramming@gmail.com
-- Website: https://kventayen.github.io/portfolio/
+- Email: [cammeraprogramming@gmail.com](mailto:cammeraprogramming@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/karl-ventayen/](https://www.linkedin.com/in/karl-ventayen/)
+- Website: [https://kventayen.github.io/portfolio/](https://kventayen.github.io/portfolio/)
