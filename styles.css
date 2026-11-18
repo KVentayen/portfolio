@@ -1,0 +1,39 @@
+@font-face {
+	font-family: "JetbrainsMono";
+	src: url('fonts/JetBrainsMono/JetBrainsMonoNerdFontMono-Regular.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'JetBrainsMono Nerd Font', monospace;
+	margin: 0;
+}
+
+.header {
+	/* INSERT STUFF */
+}
+
+.middle {
+	display: flex;
+}
+
+.left-sidebar {
+	background-color: lightgray;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.right-sidebar {
+	/* INSERT STUFF */
+}
+
+.content {
+	padding: 20px;
+}
+
+.footer {
+	/* INSERT STUFF */
+}
